@@ -1,0 +1,9 @@
+float64 latitude
+float64 longitude
+float64 velocidade_latitudinal
+float64 velocidade_longitudinal
+---
+float64 distancia_percorrida
+---
+float64 latitude_atual
+float64 longitude_atual
